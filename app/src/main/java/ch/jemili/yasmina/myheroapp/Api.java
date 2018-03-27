@@ -1,7 +1,7 @@
 package ch.jemili.yasmina.myheroapp;
 
 /**
- * Created by Yasmina on 11.03.18. lolo
+ * Created by Yasmina on 11.03.18
  */
 
 public class Api {
